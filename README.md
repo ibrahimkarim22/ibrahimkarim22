@@ -20,7 +20,7 @@
   ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=fff)
   ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=fff)
   ![React Three Fiber](https://img.shields.io/badge/-React%20Three%20Fiber-000000?logo=threedotjs&logoColor=fff) </br>
-![Banner](https://raw.githubusercontent.com/ibrahimkarim22/ibrahimkarim22/refs/heads/main/krispyBanner.png)
+![Banner](https://raw.githubusercontent.com/ibrahimkarim22/ibrahimkarim22/refs/heads/main/portfolioBanner.png)
 - I created this portfolio using React. It showcases all the projects I will list below. It also features a 3D Portfolio I created using Blender and integrated into the App using React Three Fiber.
   
 ---
@@ -36,7 +36,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)
   ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff) </br>
-![Banner](https://raw.githubusercontent.com/ibrahimkarim22/ibrahimkarim22/refs/heads/main/krispyBanner.png)
+![Banner](https://raw.githubusercontent.com/ibrahimkarim22/ibrahimkarim22/refs/heads/main/heyYouBanner.png)
 - Developed a React Native app with Google Maps and Socket.io for real-time location tracking and messaging. Tested across multiple devices to guarantee reliable performance and data sync. 
 - Enhanced data security by enabling user-generated access keys and automatic location data deletion upon logout in MongoDB Atlas to protect user privacy. 
 - Improved app responsiveness by optimizing Socket.io to reduce data lag and speed up transmission. 
@@ -67,7 +67,7 @@
   ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=fff)
   ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000)
   ![Firestore](https://img.shields.io/badge/-Firestore-FFCA28?logo=firebase&logoColor=000) </br>
-![Banner](https://raw.githubusercontent.com/ibrahimkarim22/ibrahimkarim22/refs/heads/main/krispyBanner.png)
+![Banner](https://raw.githubusercontent.com/ibrahimkarim22/ibrahimkarim22/refs/heads/main/bardBanner.png)
 - Developed an interactive learning platform for Shakespeare’s works in React Native, using the MIT Shakespeare API for full plays texts and the Folger Shakespeare Library API for synopses, character lists, and images. 
 - Awarded the Front-End Honors Award for building a free mobile app that offers all 36 Shakespeare plays, using official APIs to provide authentic texts, interactive quizzes, badges, and completion certificates to make learning engaging and enjoyable. 
 
@@ -81,7 +81,7 @@
   ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=fff)
   ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000)
   ![Firestore](https://img.shields.io/badge/-Firestore-FFCA28?logo=firebase&logoColor=000) </br>
-![Banner](https://raw.githubusercontent.com/ibrahimkarim22/ibrahimkarim22/refs/heads/main/krispyBanner.png)
+![Banner](https://raw.githubusercontent.com/ibrahimkarim22/ibrahimkarim22/refs/heads/main/tuhDooBanner.png)
 - Using React I created a Kanban Style Todo List Draggable tasks with state persistence mainly using Props and state managment. I also have the option for the users to create an account to save their progress in firestore database giving the ability for users to access their to do list from any device.
 
 ---
@@ -92,7 +92,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
   ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
   ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=fff)
-![Banner](https://raw.githubusercontent.com/ibrahimkarim22/ibrahimkarim22/refs/heads/main/krispyBanner.png)
+![Banner](https://raw.githubusercontent.com/ibrahimkarim22/ibrahimkarim22/refs/heads/main/whackAMoleBanner.png)
 – Used GitHub and VS Code Live Share to help my team collaborate in real time, which cut our code merge time in half by   simplifying workflows and making it easier to resolve conflicts.  
 
 ---
