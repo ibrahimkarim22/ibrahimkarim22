@@ -1,14 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/ibrahimkarim22/ibrahimkarim22/main/linkedinBanner22.jpg)
 
-
 # Hi there, I'm Ibrahim Karim! You can call me Jaime! 👋  
-
-I'm a **Full-Stack Web & Mobile Developer** and **2D/3D Animator**.  
-I build functional apps with **React, React Native, Firebase, Node.js** 
-and create **hand-drawn 2D animations** using Toon Boom Harmony. I also can model a bit in 3D using Blender. 
-All my animations and code are made **frame by frame, voice-acted, and edited by me** (no AI-generated shortcuts).  
-
-
 ## 📊 GitHub Stats
 | 🏆 Trophies | 📊 Stats |
 |-------------|----------|
@@ -28,11 +20,14 @@ All my animations and code are made **frame by frame, voice-acted, and edited by
   ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=fff)
   ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=fff)
   ![React Three Fiber](https://img.shields.io/badge/-React%20Three%20Fiber-000000?logo=threedotjs&logoColor=fff) </br>
+![Banner](https://raw.githubusercontent.com/ibrahimkarim22/ibrahimkarim22/refs/heads/main/krispyBanner.png)
 - I created this portfolio using React. It showcases all the projects I will list below. It also features a 3D Portfolio I created using Blender and integrated into the App using React Three Fiber.
+  
 ---
+
 [**HeyYou (React Native) Reoi**](https://github.com/ibrahim-karim-22/fullStackPortfolioProject) </br>
 [**View in Portfolio**](https://ibrahimkarim-34158.web.app/projects/heeyyou) </br>
-[**Request APK**](https://drive.google.com/file/d/1qS72H4LG1BF-wKSWfJiPhMNqGe5kkRZ_/view?usp=drive_link) </br>
+[**Request APK**](https://drive.google.com/file/d/1qS72H4LG1BF-wKSWfJiPhMNqGe5kkRZ_/view?usp=drive_link) </br> 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
   ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=000)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=androidstudio&logoColor=fff)
@@ -41,6 +36,7 @@ All my animations and code are made **frame by frame, voice-acted, and edited by
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)
   ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff) </br>
+![Banner](https://raw.githubusercontent.com/ibrahimkarim22/ibrahimkarim22/refs/heads/main/krispyBanner.png)
 - Developed a React Native app with Google Maps and Socket.io for real-time location tracking and messaging. Tested across multiple devices to guarantee reliable performance and data sync. 
 - Enhanced data security by enabling user-generated access keys and automatic location data deletion upon logout in MongoDB Atlas to protect user privacy. 
 - Improved app responsiveness by optimizing Socket.io to reduce data lag and speed up transmission. 
@@ -57,6 +53,7 @@ All my animations and code are made **frame by frame, voice-acted, and edited by
   ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=fff)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
   ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=fff) </br>
+![Banner](https://raw.githubusercontent.com/ibrahimkarim22/ibrahimkarim22/refs/heads/main/krispyBanner.png)
 - Built a React-based streaming platform for public domain movies, live TV, and global feeds, integrating REST APIs for smooth media integration and reduced load times, providing fast, accessible streaming across all devices.
 
 ---
@@ -70,7 +67,7 @@ All my animations and code are made **frame by frame, voice-acted, and edited by
   ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=fff)
   ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000)
   ![Firestore](https://img.shields.io/badge/-Firestore-FFCA28?logo=firebase&logoColor=000) </br>
-
+![Banner](https://raw.githubusercontent.com/ibrahimkarim22/ibrahimkarim22/refs/heads/main/krispyBanner.png)
 - Developed an interactive learning platform for Shakespeare’s works in React Native, using the MIT Shakespeare API for full plays texts and the Folger Shakespeare Library API for synopses, character lists, and images. 
 - Awarded the Front-End Honors Award for building a free mobile app that offers all 36 Shakespeare plays, using official APIs to provide authentic texts, interactive quizzes, badges, and completion certificates to make learning engaging and enjoyable. 
 
@@ -84,7 +81,7 @@ All my animations and code are made **frame by frame, voice-acted, and edited by
   ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=fff)
   ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000)
   ![Firestore](https://img.shields.io/badge/-Firestore-FFCA28?logo=firebase&logoColor=000) </br>
-  
+![Banner](https://raw.githubusercontent.com/ibrahimkarim22/ibrahimkarim22/refs/heads/main/krispyBanner.png)
 - Using React I created a Kanban Style Todo List Draggable tasks with state persistence mainly using Props and state managment. I also have the option for the users to create an account to save their progress in firestore database giving the ability for users to access their to do list from any device.
 
 ---
@@ -95,6 +92,7 @@ All my animations and code are made **frame by frame, voice-acted, and edited by
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
   ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
   ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=fff)
+![Banner](https://raw.githubusercontent.com/ibrahimkarim22/ibrahimkarim22/refs/heads/main/krispyBanner.png)
 – Used GitHub and VS Code Live Share to help my team collaborate in real time, which cut our code merge time in half by   simplifying workflows and making it easier to resolve conflicts.  
 
 ---
