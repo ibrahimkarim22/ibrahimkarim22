@@ -1,4 +1,6 @@
-![header](https://raw.githubusercontent.com/ibrahimkarim22/ibrahimkarim22/main/banner.png)
+
+
+![Banner](https://raw.githubusercontent.com/ibrahimkarim22/ibrahimkarim22/main/linkedinBanner22.jpg)
 
 
 # Hi there, I'm Ibrahim Karim! You can call me Jaime! 👋  
@@ -28,12 +30,18 @@ All my animations and code are made **frame by frame, voice-acted, and edited by
 
 ## 🚀 Featured Dev Projects
 
-- [**My Portfolio Web App (React)**](https://github.com/ibrahimkarim22/ibrahim-karim-portfolio)
-  [**Portfolio Link**](https://ibrahimkarim-34158.web.app/)
-○ I created this portfolio using React. It showcases all the projects I will list below. It also features a 3D Portfolio I created using Blender and integrated into the App using React Three Fiber.
+[**My Portfolio Web App (React)**](https://github.com/ibrahimkarim22/ibrahim-karim-portfolio) </br>
+  [**Portfolio Link**](https://ibrahimkarim-34158.web.app/) </br>
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000) 
+  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000)
+  ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=fff)
+  ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=fff)
+  ![React Three Fiber](https://img.shields.io/badge/-React%20Three%20Fiber-000000?logo=threedotjs&logoColor=fff) </br>
+- I created this portfolio using React. It showcases all the projects I will list below. It also features a 3D Portfolio I created using Blender and integrated into the App using React Three Fiber.
   
+[**HeyYou (React Native)**](https://github.com/ibrahim-karim-22/fullStackPortfolioProject) </br>
 
-- [**HeyYou (React Native)**](https://github.com/ibrahim-karim-22/fullStackPortfolioProject)
 ○ Developed a React Native app with Google Maps and Socket.io for real-time location tracking and messaging. Tested across multiple devices to guarantee reliable performance and data sync. 
 ○ Enhanced data security by enabling user-generated access keys and automatic location data deletion upon logout in MongoDB Atlas to protect user privacy. 
 ○ Improved app responsiveness by optimizing Socket.io to reduce data lag and speed up transmission. 
