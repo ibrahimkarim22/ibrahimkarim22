@@ -105,8 +105,9 @@ Contributions ;)
 ---
 
 ## 🎨 2D Animation Projects
+*Everything is drawn and animated by hand using my laptop, a Wacom tablet, and Toon Boom Harmony*
 
-### Jared Goff Chant Animation  
+### Jared Goff! Jared Goff!
 ![Watch Now!](https://www.youtube.com/watch?v=IjWjixy8xQY)
 ![Banner](https://raw.githubusercontent.com/ibrahimkarim22/ibrahimkarim22/refs/heads/main/goffBanner.jpg)
 *Surreal fan tribute animation*  
