@@ -100,14 +100,25 @@
 ## 🎨 2D Animation Projects
 
 ### Jared Goff Chant Animation  
-[![Jared Goff Chant](https://img.youtube.com/vi/IjWjixy8xQY/0.jpg)](https://www.youtube.com/watch?v=IjWjixy8xQY)  
+![Watch Now!](https://www.youtube.com/watch?v=IjWjixy8xQY)
+![Banner](https://raw.githubusercontent.com/ibrahimkarim22/ibrahimkarim22/refs/heads/main/goffBanner.jpg)
 *Surreal fan tribute animation*  
 
 ---
-
 ### Kitty on the Judge Judy  
-[![Kitty on the Judge Judy](https://img.youtube.com/vi/wLnJo1LrhgY/0.jpg)](https://www.youtube.com/watch?v=wLnJo1LrhgY)  
+![Kitty on the Judge Judy](https://www.youtube.com/watch?v=wLnJo1LrhgY)
+![Banner](https://raw.githubusercontent.com/ibrahimkarim22/ibrahimkarim22/refs/heads/main/judyBanner.jpg)
 *Magical parody animation*  
+
+
+---
+
+## 🎨 3D Animation Projects
+
+### 3D Profile
+[**Visit my 3D Profile**](https://ibrahimkarim-34158.web.app/threeDeeResume)
+![Made with Blender]
+![Banner](https://raw.githubusercontent.com/ibrahimkarim22/ibrahimkarim22/refs/heads/main/3DProfileBanner.jpg)
 
 ---
 
