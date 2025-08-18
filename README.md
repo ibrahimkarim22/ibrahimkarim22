@@ -1,7 +1,13 @@
 ![Banner](https://raw.githubusercontent.com/ibrahimkarim22/ibrahimkarim22/refs/heads/main/GHBanner.jpg)
 ##
-
+##
 Hi there, I'm Ibrahim Karim! You can call me Jaime! 👋  
+---
+##
+Contributions ;)
+## ![Contribution Grid](https://ghchart.rshah.org/ibrahimkarim22)
+
+## ![GitHub Streak](https://streak-stats.demolab.com?user=ibrahimkarim22&theme=tokyonight&hide_border=true)
 
 
 ## 📊 GitHufb Stats</br>
