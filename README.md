@@ -32,7 +32,7 @@ Contributions ;)
   
 ---
 
-[**HeyYou (React Native) Reoi**](https://github.com/ibrahim-karim-22/fullStackPortfolioProject) </br>
+[**HeyYou (React Native) Repo**](https://github.com/ibrahim-karim-22/fullStackPortfolioProject) </br>
 [**View in Portfolio**](https://ibrahimkarim-34158.web.app/projects/heeyyou) </br>
 [**Request APK**](https://drive.google.com/file/d/1qS72H4LG1BF-wKSWfJiPhMNqGe5kkRZ_/view?usp=drive_link) </br> 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
