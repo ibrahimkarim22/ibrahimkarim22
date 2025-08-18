@@ -1,13 +1,14 @@
 ![Banner](https://raw.githubusercontent.com/ibrahimkarim22/ibrahimkarim22/refs/heads/main/GHBanner.jpg)
+##
 
-# Hi there, I'm Ibrahim Karim! You can call me Jaime! 👋  
-## 📊 GitHub Stats
-| 🏆 Trophies | 📊 Stats |
-|-------------|----------|
-| [![trophy](https://github-profile-trophy.vercel.app/?username=ibrahimkarim22&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy) | ![Stats](https://github-readme-stats.vercel.app/api?username=ibrahimkarim22&show_icons=true&theme=onedark) |
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimkarim22&layout=compact&theme=onedark)
+Hi there, I'm Ibrahim Karim! You can call me Jaime! 👋  
 
----
+
+## 📊 GitHufb Stats</br>
+*🏆**🏆**🏆**🏆**🏆**🏆**🏆**🏆**🏆*🏆*🏆*🏆*🏆*🏆*🏆*🏆*🏆*🏆🏆🏆🏆🏆🏆🏆*🏆*🏆*🏆*🏆*🏆*🏆*🏆**🏆**🏆**🏆**🏆**🏆**🏆**🏆**🏆**🏆**🏆**🏆**🏆**🏆**🏆*🏆 </br> 
+![trophy](https://github-profile-trophy.vercel.app/?username=ibrahimkarim22&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15)</br>
+
+##
 
 ## 🚀 Featured Dev Projects
 
@@ -116,8 +117,8 @@
 ## 🎨 3D Animation Projects
 
 ### 3D Profile
-[**Visit my 3D Profile**](https://ibrahimkarim-34158.web.app/threeDeeResume)
-![Made with Blender]
+[**Visit my 3D Profile**](https://ibrahimkarim-34158.web.app/threeDeeResume)</br>
+*Modeled and animated in Blender*
 ![Banner](https://raw.githubusercontent.com/ibrahimkarim22/ibrahimkarim22/refs/heads/main/3DProfileBanner.jpg)
 
 ---
