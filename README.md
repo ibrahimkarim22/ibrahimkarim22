@@ -74,7 +74,7 @@ Contributions ;)
   ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=fff)
   ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000)
   ![Firestore](https://img.shields.io/badge/-Firestore-FFCA28?logo=firebase&logoColor=000) </br>
-![Banner](https://raw.githubusercontent.com/ibrahimkarim22/ibrahimkarim22/refs/heads/main/bardBanner.png)
+![Banner](https://raw.githubusercontent.com/ibrahimkarim22/ibrahimkarim22/refs/heads/main/bardBanner.jpg)
 - Developed an interactive learning platform for Shakespeare’s works in React Native, using the MIT Shakespeare API for full plays texts and the Folger Shakespeare Library API for synopses, character lists, and images. 
 - Awarded the Front-End Honors Award for building a free mobile app that offers all 36 Shakespeare plays, using official APIs to provide authentic texts, interactive quizzes, badges, and completion certificates to make learning engaging and enjoyable. 
 
