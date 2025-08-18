@@ -20,7 +20,7 @@
   ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=fff)
   ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=fff)
   ![React Three Fiber](https://img.shields.io/badge/-React%20Three%20Fiber-000000?logo=threedotjs&logoColor=fff) </br>
-![Banner](https://raw.githubusercontent.com/ibrahimkarim22/ibrahimkarim22/refs/heads/main/portfolioBanner.png)
+  ![Banner](https://github.com/ibrahimkarim22/ibrahimkarim22/blob/main/portfolioBanner.png)
 - I created this portfolio using React. It showcases all the projects I will list below. It also features a 3D Portfolio I created using Blender and integrated into the App using React Three Fiber.
   
 ---
