@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/ibrahimkarim22/ibrahimkarim22/main/linkedinBanner22.jpg)
+![Banner](https://raw.githubusercontent.com/ibrahimkarim22/ibrahimkarim22/refs/heads/main/GHBanner.jpg)
 
 # Hi there, I'm Ibrahim Karim! You can call me Jaime! 👋  
 ## 📊 GitHub Stats
