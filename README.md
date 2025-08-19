@@ -1,7 +1,7 @@
 ![Banner](https://raw.githubusercontent.com/ibrahimkarim22/ibrahimkarim22/refs/heads/main/GHBanner22.jpg)
 ##
 ##
-Hi there, I'm Ibrahim Karim! You can call me Jaime! 👋  
+Hi there, I'm Ibrahim Karim! 👋  
 ---
 ##
 Contributions ;)
