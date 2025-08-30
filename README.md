@@ -1,7 +1,7 @@
 ![Banner](https://raw.githubusercontent.com/ibrahimkarim22/ibrahimkarim22/refs/heads/main/GHBanner22.jpg)
 ##
 ##
-Hi there, I'm Ibrahim Karim! 👋  
+Hi there, I'm Ibrahim Karim! 👋  Currently working on releasing Bard to the Play Store.
 ---
 ##
 Contributions ;)
